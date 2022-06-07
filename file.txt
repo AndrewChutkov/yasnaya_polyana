@@ -1,0 +1,4703 @@
+Array
+(
+    [update_id] => 230276040
+    [message] => Array
+        (
+            [message_id] => 1
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652823856
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276041
+    [message] => Array
+        (
+            [message_id] => 3
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652824082
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276042
+    [message] => Array
+        (
+            [message_id] => 5
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652824221
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276043
+    [message] => Array
+        (
+            [message_id] => 7
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652824317
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276044
+    [message] => Array
+        (
+            [message_id] => 9
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825064
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276045
+    [message] => Array
+        (
+            [message_id] => 10
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825065
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276046
+    [message] => Array
+        (
+            [message_id] => 11
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825097
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276047
+    [message] => Array
+        (
+            [message_id] => 12
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825099
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276048
+    [message] => Array
+        (
+            [message_id] => 13
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825106
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276049
+    [message] => Array
+        (
+            [message_id] => 14
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825118
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276050
+    [message] => Array
+        (
+            [message_id] => 15
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825120
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276051
+    [message] => Array
+        (
+            [message_id] => 16
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825133
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276052
+    [message] => Array
+        (
+            [message_id] => 17
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825189
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276053
+    [message] => Array
+        (
+            [message_id] => 18
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825199
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276054
+    [message] => Array
+        (
+            [message_id] => 20
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825266
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276055
+    [message] => Array
+        (
+            [message_id] => 22
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825273
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276056
+    [message] => Array
+        (
+            [message_id] => 23
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825287
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276057
+    [message] => Array
+        (
+            [message_id] => 25
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825301
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276058
+    [message] => Array
+        (
+            [message_id] => 26
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825303
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276059
+    [message] => Array
+        (
+            [message_id] => 28
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825378
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276060
+    [message] => Array
+        (
+            [message_id] => 29
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825381
+            [text] => График работ
+        )
+
+)
+Array
+(
+    [update_id] => 230276061
+    [message] => Array
+        (
+            [message_id] => 30
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825388
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276062
+    [message] => Array
+        (
+            [message_id] => 32
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825390
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276063
+    [message] => Array
+        (
+            [message_id] => 34
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825893
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276064
+    [message] => Array
+        (
+            [message_id] => 36
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825895
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276065
+    [message] => Array
+        (
+            [message_id] => 38
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652825940
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276066
+    [message] => Array
+        (
+            [message_id] => 40
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652826002
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276069
+    [message] => Array
+        (
+            [message_id] => 44
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652826745
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276070
+    [message] => Array
+        (
+            [message_id] => 46
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652826747
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276071
+    [message] => Array
+        (
+            [message_id] => 48
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652826759
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276072
+    [message] => Array
+        (
+            [message_id] => 50
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652826760
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276073
+    [message] => Array
+        (
+            [message_id] => 51
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652826887
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276074
+    [message] => Array
+        (
+            [message_id] => 52
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652826905
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276075
+    [message] => Array
+        (
+            [message_id] => 54
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652826907
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276078
+    [message] => Array
+        (
+            [message_id] => 58
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827209
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276079
+    [message] => Array
+        (
+            [message_id] => 60
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827211
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276080
+    [message] => Array
+        (
+            [message_id] => 61
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827357
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276081
+    [message] => Array
+        (
+            [message_id] => 62
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827381
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276082
+    [message] => Array
+        (
+            [message_id] => 63
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827382
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276083
+    [message] => Array
+        (
+            [message_id] => 64
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827384
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276084
+    [message] => Array
+        (
+            [message_id] => 66
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827386
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276085
+    [message] => Array
+        (
+            [message_id] => 67
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827392
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276086
+    [message] => Array
+        (
+            [message_id] => 69
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827393
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276087
+    [message] => Array
+        (
+            [message_id] => 70
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827620
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276088
+    [message] => Array
+        (
+            [message_id] => 72
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827621
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276089
+    [message] => Array
+        (
+            [message_id] => 73
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827638
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276090
+    [message] => Array
+        (
+            [message_id] => 75
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827639
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276091
+    [message] => Array
+        (
+            [message_id] => 76
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827675
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276092
+    [message] => Array
+        (
+            [message_id] => 78
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827676
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276093
+    [message] => Array
+        (
+            [message_id] => 79
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827690
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276094
+    [message] => Array
+        (
+            [message_id] => 80
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827731
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276095
+    [message] => Array
+        (
+            [message_id] => 81
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827768
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276096
+    [message] => Array
+        (
+            [message_id] => 83
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652827844
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276097
+    [message] => Array
+        (
+            [message_id] => 85
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828166
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276098
+    [message] => Array
+        (
+            [message_id] => 86
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828195
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276099
+    [message] => Array
+        (
+            [message_id] => 87
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828334
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276100
+    [message] => Array
+        (
+            [message_id] => 88
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828335
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276101
+    [message] => Array
+        (
+            [message_id] => 89
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828352
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276102
+    [message] => Array
+        (
+            [message_id] => 90
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828411
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276103
+    [message] => Array
+        (
+            [message_id] => 91
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828487
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276104
+    [message] => Array
+        (
+            [message_id] => 92
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828524
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276105
+    [message] => Array
+        (
+            [message_id] => 93
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828579
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276106
+    [message] => Array
+        (
+            [message_id] => 94
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828592
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276107
+    [message] => Array
+        (
+            [message_id] => 96
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828592
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276108
+    [message] => Array
+        (
+            [message_id] => 97
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828663
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276109
+    [message] => Array
+        (
+            [message_id] => 98
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828670
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276110
+    [message] => Array
+        (
+            [message_id] => 100
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828687
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276111
+    [message] => Array
+        (
+            [message_id] => 102
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828688
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276112
+    [message] => Array
+        (
+            [message_id] => 103
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828773
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276113
+    [message] => Array
+        (
+            [message_id] => 105
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828807
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276114
+    [message] => Array
+        (
+            [message_id] => 107
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828845
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276115
+    [message] => Array
+        (
+            [message_id] => 108
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828876
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276116
+    [message] => Array
+        (
+            [message_id] => 110
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828882
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276117
+    [message] => Array
+        (
+            [message_id] => 112
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652828895
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276118
+    [message] => Array
+        (
+            [message_id] => 114
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829124
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276119
+    [message] => Array
+        (
+            [message_id] => 116
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829126
+            [text] => <a href="http://tickets.ypmus.ru">1 </a>
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 9
+                            [length] => 23
+                            [type] => url
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276120
+    [message] => Array
+        (
+            [message_id] => 117
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829145
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276121
+    [message] => Array
+        (
+            [message_id] => 119
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829148
+            [text] => <a href="http://tickets.ypmus.ru">Купить билет </a>
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 9
+                            [length] => 23
+                            [type] => url
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276122
+    [message] => Array
+        (
+            [message_id] => 120
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829192
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276123
+    [message] => Array
+        (
+            [message_id] => 122
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829193
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276124
+    [message] => Array
+        (
+            [message_id] => 124
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829318
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276125
+    [message] => Array
+        (
+            [message_id] => 126
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829356
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276126
+    [message] => Array
+        (
+            [message_id] => 128
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829375
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276127
+    [message] => Array
+        (
+            [message_id] => 130
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829466
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276128
+    [message] => Array
+        (
+            [message_id] => 132
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829704
+            [text] => Контакты
+        )
+
+)
+Array
+(
+    [update_id] => 230276129
+    [message] => Array
+        (
+            [message_id] => 133
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829706
+            [text] => Афиша
+        )
+
+)
+Array
+(
+    [update_id] => 230276130
+    [message] => Array
+        (
+            [message_id] => 134
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829709
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276131
+    [message] => Array
+        (
+            [message_id] => 136
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829794
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276132
+    [message] => Array
+        (
+            [message_id] => 138
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829819
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276133
+    [message] => Array
+        (
+            [message_id] => 140
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829951
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276134
+    [message] => Array
+        (
+            [message_id] => 142
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652829975
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276135
+    [message] => Array
+        (
+            [message_id] => 143
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652830044
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276136
+    [message] => Array
+        (
+            [message_id] => 145
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652830124
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276137
+    [message] => Array
+        (
+            [message_id] => 147
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652830178
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276138
+    [message] => Array
+        (
+            [message_id] => 149
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652830180
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276139
+    [message] => Array
+        (
+            [message_id] => 151
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652830203
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276140
+    [message] => Array
+        (
+            [message_id] => 153
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652863954
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276141
+    [message] => Array
+        (
+            [message_id] => 155
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652863957
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276142
+    [message] => Array
+        (
+            [message_id] => 157
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652863959
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276143
+    [message] => Array
+        (
+            [message_id] => 159
+            [from] => Array
+                (
+                    [id] => 218314749
+                    [is_bot] => 
+                    [first_name] => Марина
+                    [last_name] => Банникова
+                    [username] => marinabann
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 218314749
+                    [first_name] => Марина
+                    [last_name] => Банникова
+                    [username] => marinabann
+                    [type] => private
+                )
+
+            [date] => 1652863990
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276144
+    [message] => Array
+        (
+            [message_id] => 161
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652864162
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276145
+    [message] => Array
+        (
+            [message_id] => 163
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652865658
+            [text] => Соцсети
+        )
+
+)
+Array
+(
+    [update_id] => 230276146
+    [message] => Array
+        (
+            [message_id] => 164
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652865665
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276147
+    [message] => Array
+        (
+            [message_id] => 166
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1652865666
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276148
+    [message] => Array
+        (
+            [message_id] => 168
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653894311
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276149
+    [message] => Array
+        (
+            [message_id] => 170
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653894327
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276150
+    [message] => Array
+        (
+            [message_id] => 172
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653894330
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276151
+    [message] => Array
+        (
+            [message_id] => 174
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653894354
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276152
+    [message] => Array
+        (
+            [message_id] => 176
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653894464
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276153
+    [message] => Array
+        (
+            [message_id] => 178
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653894477
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276154
+    [message] => Array
+        (
+            [message_id] => 180
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653894505
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276155
+    [message] => Array
+        (
+            [message_id] => 182
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653894514
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276156
+    [message] => Array
+        (
+            [message_id] => 184
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653894521
+            [text] => Прайс
+        )
+
+)
+Array
+(
+    [update_id] => 230276157
+    [message] => Array
+        (
+            [message_id] => 185
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653897495
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276158
+    [message] => Array
+        (
+            [message_id] => 187
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653897610
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276159
+    [message] => Array
+        (
+            [message_id] => 188
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653897663
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276160
+    [message] => Array
+        (
+            [message_id] => 190
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653897681
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276161
+    [message] => Array
+        (
+            [message_id] => 192
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653897691
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276162
+    [message] => Array
+        (
+            [message_id] => 194
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653898350
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276163
+    [message] => Array
+        (
+            [message_id] => 196
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653898558
+            [text] => Музей-детям
+        )
+
+)
+Array
+(
+    [update_id] => 230276164
+    [message] => Array
+        (
+            [message_id] => 197
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653898563
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276165
+    [message] => Array
+        (
+            [message_id] => 199
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653898568
+            [text] => Музей — детям
+        )
+
+)
+Array
+(
+    [update_id] => 230276166
+    [message] => Array
+        (
+            [message_id] => 200
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653898584
+            [text] => Музей — детям
+        )
+
+)
+Array
+(
+    [update_id] => 230276167
+    [message] => Array
+        (
+            [message_id] => 202
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653898728
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276168
+    [message] => Array
+        (
+            [message_id] => 204
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653898746
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 230276169
+    [message] => Array
+        (
+            [message_id] => 206
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653898749
+            [text] => Посетителям с ОВЗ
+        )
+
+)
+Array
+(
+    [update_id] => 230276170
+    [message] => Array
+        (
+            [message_id] => 208
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653898999
+            [text] => Филиалы
+        )
+
+)
+Array
+(
+    [update_id] => 230276171
+    [message] => Array
+        (
+            [message_id] => 209
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653899426
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276172
+    [message] => Array
+        (
+            [message_id] => 211
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653899429
+            [text] => Купить билет
+        )
+
+)
+Array
+(
+    [update_id] => 230276173
+    [message] => Array
+        (
+            [message_id] => 213
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653899432
+            [text] => Аудиогид
+        )
+
+)
+Array
+(
+    [update_id] => 230276174
+    [message] => Array
+        (
+            [message_id] => 215
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653899436
+            [text] => Музей — детям
+        )
+
+)
+Array
+(
+    [update_id] => 230276175
+    [message] => Array
+        (
+            [message_id] => 217
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653899438
+            [text] => Посетителям с ОВЗ
+        )
+
+)
+Array
+(
+    [update_id] => 230276176
+    [message] => Array
+        (
+            [message_id] => 219
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653899441
+            [text] => Филиалы
+        )
+
+)
+Array
+(
+    [update_id] => 230276177
+    [message] => Array
+        (
+            [message_id] => 220
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653899970
+            [text] => Филиалы
+        )
+
+)
+Array
+(
+    [update_id] => 230276178
+    [message] => Array
+        (
+            [message_id] => 222
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653900166
+            [text] => Назад
+        )
+
+)
+Array
+(
+    [update_id] => 230276179
+    [message] => Array
+        (
+            [message_id] => 224
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653900171
+            [text] => Филиалы
+        )
+
+)
+Array
+(
+    [update_id] => 230276180
+    [message] => Array
+        (
+            [message_id] => 226
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653900172
+            [text] => Назад
+        )
+
+)
+Array
+(
+    [update_id] => 230276181
+    [message] => Array
+        (
+            [message_id] => 228
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653900177
+            [text] => Филиалы
+        )
+
+)
+Array
+(
+    [update_id] => 230276182
+    [message] => Array
+        (
+            [message_id] => 230
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653900180
+            [text] => Назад
+        )
+
+)
+Array
+(
+    [update_id] => 230276183
+    [message] => Array
+        (
+            [message_id] => 232
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653900242
+            [text] => График работы
+        )
+
+)
+Array
+(
+    [update_id] => 230276184
+    [message] => Array
+        (
+            [message_id] => 234
+            [from] => Array
+                (
+                    [id] => 356353517
+                    [is_bot] => 
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 356353517
+                    [first_name] => Андрей
+                    [last_name] => Чутков
+                    [username] => andrei_chut
+                    [type] => private
+                )
+
+            [date] => 1653900246
+            [text] => Купить билет
+        )
+
+)
